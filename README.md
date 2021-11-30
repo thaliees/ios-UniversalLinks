@@ -15,8 +15,10 @@
 
 * If you have differents Identifier for each app, you should to create a new Profile.
 
-### App-app-site-association file
-Create the file called apple-app-site-association and add the following content:
+Note: This project use the following repository to complete the process: [Deep Link](https://github.com/thaliees/html-deepLink).
+
+### Apple-app-site-association file
+You need to create the file called `apple-app-site-association` and add the following content (server):     
 `{
   "applinks": {
     "apps": [],
